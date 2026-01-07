@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Frontend & AIML**
 
-- 📫 How to reach me **jiyaul60@gmail.com**
+- 📫 How to reach me **jiyaulsaifi60@gmail.com**
 
 - ⚡ Fun fact **I am Crazy about Tech**
 
