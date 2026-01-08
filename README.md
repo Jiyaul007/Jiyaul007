@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AIML & DSA**
 
-- 💬 Ask me about **Frontend & AIML**
+- 💬 Ask me about **Frontend Development & AIML**
 
 - 📫 How to reach me **jiyaulsaifi60@gmail.com**
 
