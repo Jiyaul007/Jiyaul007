@@ -32,7 +32,7 @@ Passionate about Artificial Intelligence, Software Engineering, and creating imp
 - 🔭 Currently working on **Personal Finance Management System**
 - 🌱 Currently learning **AI/ML, DSA, System Design & Cloud**
 - 👯 Looking to collaborate on **AI Projects, Web Apps & Open Source**
-- 💬 Ask me about **AI Agents, React, Frontend Development, Python and Automation**
+- 💬 Ask me about **AI Agents, React, Frontend Development, and Automation**
 - 📫 Reach me at **jiyaulsaifi60@gmail.com**
 - ⚡ Fun fact: **I love building AI-powered products and developer tools.**
 
