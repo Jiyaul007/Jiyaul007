@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Jiyaul Saifi</h1>
 
 <h3 align="center">
@@ -147,4 +146,4 @@ Passionate about Artificial Intelligence, Software Engineering, and creating imp
 <h3 align="center">
 ✨ "Code. Build. Learn. Repeat." ✨
 </h3>
-```
+
