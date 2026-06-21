@@ -40,22 +40,22 @@ Passionate about Artificial Intelligence, Software Engineering, and creating imp
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/jiyaul-saifi-06a890275" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/jiyaul-saifi-06a890275" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jiyaul%20Saifi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://leetcode.com/u/jiyaul007/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="35"/>
-</a>
+  <a href="https://leetcode.com/u/jiyaul007/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-jiyaul007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 
-<a href="https://www.codechef.com/users/hey007" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="35"/>
-</a>
+  <a href="https://www.codechef.com/users/hey007" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-hey007-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 
-<a href="https://auth.geeksforgeeks.org/user/jiyaul007" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="35"/>
-</a>
+  <a href="https://auth.geeksforgeeks.org/user/jiyaul007" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-jiyaul007-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
 
 ---
