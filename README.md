@@ -9,19 +9,19 @@ Passionate about Artificial Intelligence, Software Engineering, and creating imp
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiyaul007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="mailto:jiyaulsaifi60@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/jiyaul-saifi-06a890275">
+    <img src="https://img.shields.io/badge/LinkedIn-Jiyaul_Saifi-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jiyaul007">
+    <img src="https://img.shields.io/badge/GitHub-Jiyaul007-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="mailto:jiyaulsaifi60@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jiyaulsaifi60%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/jiyaul-saifi-06a890275">
-    <img src="https://img.shields.io/badge/LinkedIn-Jiyaul%20Saifi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Jiyaul007">
-    <img src="https://img.shields.io/badge/GitHub-Jiyaul007-black?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=jiyaul007&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
@@ -32,55 +32,55 @@ Passionate about Artificial Intelligence, Software Engineering, and creating imp
 - 🔭 Currently working on **Personal Finance Management System**
 - 🌱 Currently learning **AI/ML, DSA, System Design & Cloud**
 - 👯 Looking to collaborate on **AI Projects, Web Apps & Open Source**
-- 💬 Ask me about **AI Agents, Frontend Development, React, JavaScript, Python and Automation**
+- 💬 Ask me about **AI Agents, React, Frontend Development, Python and Automation**
 - 📫 Reach me at **jiyaulsaifi60@gmail.com**
 - ⚡ Fun fact: **I love building AI-powered products and developer tools.**
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/jiyaul-saifi-06a890275" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="https://www.codechef.com/users/hey007" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="https://leetcode.com/u/jiyaul007/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="35"/>
+</a>
+
+<a href="https://www.codechef.com/users/hey007" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="35"/>
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/jiyaul007" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="35"/>
 </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,html,css,tailwind,mysql,mongodb,docker,linux,git,github,aws,gcp,tensorflow,pytorch,c,cpp,vscode,postman,firebase" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,html,css,tailwind,mysql,mongodb,docker,linux,git,github,aws,gcp,tensorflow,pytorch,c,cpp,firebase,vscode,postman&perline=8" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 AI Agents & Automation
+### 🤖 AI & Automation
 - AI Customer Support Agent
 - Resume Analyzer AI
-- Email Automation Tool
 - Research Assistant Agent
+- Email Automation Tool
 
 ### 🌐 Web Development
 - Personal Portfolio Website
-- Business Landing Page
-- Finance Management System
+- Business Landing Pages
 - Full Stack Web Applications
+- Finance Management System
 
 ### 📚 Computer Science
 - Data Structures & Algorithms
@@ -91,22 +91,13 @@ Passionate about Artificial Intelligence, Software Engineering, and creating imp
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyaul007&layout=compact&theme=tokyonight"
-       alt="Top Languages"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jiyaul007&show_icons=true&theme=catppuccin_mocha&hide_border=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyaul007&theme=catppuccin_mocha&hide_border=true"/>
 </p>
 
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=jiyaul007&show_icons=true&theme=tokyonight"
-       alt="GitHub Stats"/>
-</p>
-
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=jiyaul007&theme=tokyonight"
-       alt="GitHub Streak"/>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyaul007&layout=compact&theme=catppuccin_mocha&hide_border=true"/>
 </p>
 
 ---
@@ -114,14 +105,16 @@ Passionate about Artificial Intelligence, Software Engineering, and creating imp
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jiyaul007&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jiyaul007&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
-[![Jiyaul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiyaul007&theme=tokyo-night)](https://github.com/Jiyaul007)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyaul007&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
@@ -133,17 +126,16 @@ Passionate about Artificial Intelligence, Software Engineering, and creating imp
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026 Goals
 
 - 🚀 Build Production-Ready AI Agents
 - 🌍 Contribute to Open Source
-- 💼 Start Freelancing & Work with International Clients
+- 💼 Work with International Clients
 - 📚 Master Full-Stack Development & System Design
-- 🤖 Build AI Products That Solve Real Problems
+- 🤖 Launch AI Products That Solve Real Problems
 
 ---
 
 <h3 align="center">
-✨ "Code. Build. Learn. Repeat." ✨
+✨ Code. Build. Learn. Repeat. 🚀
 </h3>
-
